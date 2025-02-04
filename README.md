@@ -1,9 +1,9 @@
-# Rocky Linux 8.10 HPC Test Image
+# Rocky Linux 8.10 HPC Container Image
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Release](https://github.com/CHPC-UofU/container-rockylinux8.10-hpc/actions/workflows/release.yml/badge.svg)](https://github.com/CHPC-UofU/container-rockylinux8.10-hpc/actions/workflows/release.yml)
 
-A custom container image for testing apps in HPC for the CHPC General Environment.
+A custom Rocky 8.10 container image for HPC apps in the CHPC General Environment.
 
 ## Image Tags
 
